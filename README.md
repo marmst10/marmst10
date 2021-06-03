@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Matthew Connor Armstrong @marmst10
+- 👀 I’m interested in data science, statistics, and machine learning
+- 🌱 I’m currently learning how to implement my skills in AWS
+- 💞️ I’m looking to collaborate on new projects with the purpose of showcasing various skills
+- 📫 How to reach me: email - connora2014@gmail.com
